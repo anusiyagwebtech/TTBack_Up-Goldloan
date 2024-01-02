@@ -1,0 +1,76 @@
+
+  <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv=Content-Type content='text/html; charset=utf-8'>
+</head>
+<body>
+<div style='border:3px solid #000; border-radius:5px;'>
+<table width='100%'>
+<tr>
+<td><img src=https://ttbilling.in/rkji_loan/images/elogo.jpg></td>
+<td align='center'><div align='center' style='color:#000;font-size:30px;'>INDIRA GOLD LOANS<br>இந்திரா தங்க நகை கடன்</div>
+<div align='center' style='color:#425C36;font-size:20px;'>
+1/45, kancharampettai, Kavanur Village,<br> Madurai 625014<br>
+</div></td>
+<td><img src=https://ttbilling.in/rkji_loan/images/tlogo.jpg></td>
+</tr>
+</table>
+
+
+<div align='center' style='color:#425C36;font-size:20px;border-top:1px solid #000; '>
+To be produced at the time of remittance and redeeming jewels<br>
+இதை நகை கடனுக்காக பணம் செலுத்த வரும் போதும் நகையை மீட்கும் போதும் கொண்டு வர வேண்டும் 
+</div>
+<table width='100%' style='font-size:16px;border-top:1px solid #000;'>
+<tr>
+<td width='50%'>&nbsp;&nbsp;Jewel loan card.<br> &nbsp;&nbsp;நகை கடன் அட்டை</td>
+<td width='50%' align='right'>&nbsp;&nbsp;Customer copy.<br>&nbsp;&nbsp;வாடிக்கையாளர் நகல்</td>
+</tr>
+</table>
+<table width='100%' style='font-size:16px;border-top:1px solid #000;'>
+<tr>
+<td width='50%'>&nbsp;&nbsp;Jewel Loan No. : 6756756<br> &nbsp;&nbsp;நகை கடன் நம்பர்  : 6756756</td>
+<td width='50%' align='right'>&nbsp;&nbsp;Date : 2023-05-25<br>&nbsp;&nbsp;தேதி : 2023-05-25</td>
+</tr>
+</table>
+<table width='100%' style='font-size:16px;border-top:1px solid #000;'>
+<tr>
+<td>&nbsp;&nbsp;Name : PERIYANDAVAR</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;பெயர் : PERIYANDAVAR</td>
+</tr>
+</table>
+<table width='100%' cellpadding='10' border='1' cellspacing='0'>
+<tr>
+<td>Jewel  Details<br>நகை விபரம்</td>
+<td>No of items </td>
+<td>&nbsp;</td>
+<td>Wt / Gram</td>
+</tr><tr>
+<td>ELEPHANT THADAI</td>
+<td>2</td>
+<td>&nbsp;</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Total No of Jewels :</td>
+<td>2</td>
+<td>Total Wt : </td>
+<td>50</td>
+</tr>
+</table>
+<table width='50%'>
+<tr>
+<td width='10%'>Loan amount Rs.</td>
+<td width='20%'>200,000.00</td>
+</tr>
+<tr>
+<td width='10%'>கடன் தொகை Rs.</td>
+<td width='20%'>200,000.00</td>
+</tr>
+</table>
+</div>
+</body>
+</html>
